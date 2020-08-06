@@ -1,2 +1,2 @@
-# tidytuesday
-This is my tidytuesday repository
+# TidyTuesday
+This is my TidyTuesday repository
